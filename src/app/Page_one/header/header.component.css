@@ -43,8 +43,65 @@
   height: 120px;
 }
 
+.bg-energy {
+  background: url("../../../assets/img/electricity.jpg") center center/cover
+    no-repeat;
+  height: 120px;
+}
+
+.bg-health {
+  background: url("../../../assets/img/health.jpg") center center/cover
+    no-repeat;
+  height: 120px;
+}
+
+.bg-arc {
+  background: url("../../../assets/img/arc.jpg") center center/cover no-repeat;
+  height: 120px;
+}
+.bg-industrial {
+  background: url("../../../assets/img/build.jpg") center center/cover no-repeat;
+  height: 120px;
+}
+
+.bg-tech {
+  background: url("../../../assets/img/technology.jpg") center center/cover
+    no-repeat;
+  height: 120px;
+}
+.bg-technology {
+  background: url("../../../assets/img/tech.jpg") center center/cover no-repeat;
+  height: 120px;
+}
+
+.bg-utilities {
+  background: url("../../../assets/img/utilites.jpg") center center/cover
+    no-repeat;
+  height: 120px;
+}
+.bg-food {
+  background: url("../../../assets/img/food.jpg") center center/cover no-repeat;
+  height: 120px;
+}
+.bg-consumer {
+  background: url("../../../assets/img/consumer.jpg") center center/cover
+    no-repeat;
+  height: 120px;
+}
+
+.bg-material {
+  background: url("../../../assets/img/material.jpg") center center/cover
+    no-repeat;
+  height: 120px;
+}
+
 .green-bg {
   background: green;
+  color: white;
+}
+
+.grey-bg {
+  background: grey;
   color: white;
 }
 
