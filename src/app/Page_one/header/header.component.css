@@ -1,0 +1,56 @@
+.col-bg {
+  background: #e5e5e5;
+  padding-top: 1rem;
+  line-height: 1.5;
+  margin-right: 0.5rem;
+  min-height: 200px;
+}
+
+.header {
+  font-size: 18px;
+  font-weight: 500px;
+}
+
+.para {
+  font-size: 10px;
+  font-weight: 300px;
+}
+
+.market-view {
+  font-weight: normal;
+  /* color: #e5e5e5; */
+  font-size: 20px;
+}
+.brief {
+  font-size: 39px;
+  line-height: 64px;
+}
+.last-col-bg {
+  background: white;
+  border-radius: 10px;
+}
+
+.margin-top {
+  margin-top: 4.5rem;
+}
+
+.bg-img {
+  background: url("../../../assets/img/portfolio/card1.jpg") center center/cover
+    no-repeat;
+  height: 120px;
+}
+
+.green-bg {
+  background: green;
+  color: white;
+}
+
+.red-bg {
+  background: red;
+  color: white;
+}
+
+.sector {
+  font-size: 25px;
+  font-weight: bold;
+}
