@@ -4,7 +4,7 @@ import { HeaderComponent } from './Page_one/header/header.component';
 import { CenterComponent } from './Page_one/center/center.component';
 
 const routes: Routes = [
-  // { path: '', component: HeaderComponent },
+  { path: '', component: HeaderComponent },
   { path: 'center', component: CenterComponent },
 ];
 

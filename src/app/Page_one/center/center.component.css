@@ -1,0 +1,9 @@
+.bg-img {
+  background: url("../../../assets/img/portfolio/card1.jpg") center center/cover
+    no-repeat;
+  height: 200px;
+}
+.header {
+  font-size: 20px;
+  font-weight: bold;
+}

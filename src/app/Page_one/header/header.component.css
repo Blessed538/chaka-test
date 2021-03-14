@@ -1,9 +1,12 @@
 .col-bg {
   background: #e5e5e5;
-  padding-top: 1rem;
+  padding: 1rem;
   line-height: 1.5;
   margin-right: 0.5rem;
   min-height: 200px;
+  width: 9.4%;
+
+  padding-right: 0.7rem;
 }
 
 .header {
